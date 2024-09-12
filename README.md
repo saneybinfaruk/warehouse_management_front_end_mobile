@@ -1,5 +1,27 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
+# Warehouse Management System - Mobile
+
+A mobile-based warehouse management prototype designed to efficiently handle warehouse operations such as inventory tracking, item management, and more. This app provides a clean and intuitive interface for managing day-to-day warehouse tasks, ensuring a smooth and organized workflow.
+
+## Features
+- Secure authentication using JWT (JSON Web Tokens)
+- Advanced form handling with React Hook Form and Zod validation
+- State management with Redux Toolkit and persistence using Redux Persist
+- Interactive and dynamic data visualization with chart components
+- Seamless navigation with React Navigation
+
+## Technologies Used
+- **GraphQL**: Efficient API communication with flexible queries and mutations
+- **Zod**: Schema validation to ensure reliable data handling
+- **React Hook Form**: Simplifies form management with easy validation
+- **jsonwebtoken (JWT)**: Secure token-based authentication and session management
+- **React Navigation**: User-friendly navigation for mobile app flow
+- **Chart.js (or equivalent)**: For visually representing data in charts
+- **Redux Toolkit**: Simplified state management and API interaction
+- **Redux Persist**: Enables persistent state storage across sessions
+
+
 # Getting Started
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
